@@ -1,8 +1,14 @@
-```markdown
+
 # Spring Boot E-Commerce Backend
 
 A RESTful e-commerce backend application built using Java and Spring Boot.
 This project provides APIs for managing products, including creating, retrieving, updating, deleting, searching, sorting, pagination, and product image handling.
+
+## About
+
+This project was built as a learning project to understand backend development with Spring Boot and to practice building REST APIs with database integration.
+
+The project is being developed incrementally as new Spring Boot concepts are learned.
 
 ## Features
 
@@ -54,7 +60,3 @@ The project currently uses an H2 in-memory database for development.
 - Java 21
 - Maven
 - Eclipse or another Java IDE
-
-This project was built as a learning project to understand backend development with Spring Boot and to practice building REST APIs with database integration.
-
-The project is being developed incrementally as new Spring Boot concepts are learned.
