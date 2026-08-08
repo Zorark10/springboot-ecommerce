@@ -1,0 +1,5 @@
+INSERT INTO product (name, description, brand, price, category, date, available, quantity) VALUES ('iPhone 16', 'Apple smartphone with 128GB storage', 'Apple', 799.00, 'Electronics', '2025-09-20', TRUE, 12);
+INSERT INTO product (name, description, brand, price, category, date, available, quantity) VALUES ('Galaxy S25', 'Samsung flagship Android smartphone', 'Samsung', 749.00, 'Electronics', '2025-02-07', TRUE, 18);
+INSERT INTO product (name, description, brand, price, category, date, available, quantity) VALUES ('WH-1000XM5', 'Wireless noise cancelling headphones', 'Sony', 349.99, 'Audio', '2022-05-20', TRUE, 7);
+INSERT INTO product (name, description, brand, price, category, date, available, quantity) VALUES ('MacBook Air M4', 'Lightweight laptop with Apple M4 chip', 'Apple', 999.00, 'Computers', '2025-03-12', TRUE, 5);
+INSERT INTO product (name, description, brand, price, category, date, available, quantity) VALUES ('PlayStation 5', 'Sony gaming console', 'Sony', 499.99, 'Gaming', '2020-11-12', FALSE, 0);
